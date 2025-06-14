@@ -21,5 +21,5 @@
 - Contribute to real-world mechatronics problems
 
 ## 📫 Let's Connect
-- LinkedIn:()
+- LinkedIn:(linkedin.com/in/salah-el-syad-a7505236b)
 - Email:s21246256@gmail.com
