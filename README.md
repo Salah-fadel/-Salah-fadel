@@ -1,4 +1,3 @@
-# Salah-fadel
 # 👋 Hi, I'm Salah Elsayad
 
 🎓 I'm a Mechatronics Engineering student from Egypt, currently studying at Mansoura University.  
@@ -21,5 +20,5 @@
 - Contribute to real-world mechatronics problems
 
 ## 📫 Let's Connect
-- LinkedIn:(linkedin.com/in/salah-el-syad-a7505236b)
-- Email:s21246256@gmail.com
+- LinkedIn: [linkedin.com/in/salah-el-syad-a7505236b](https://linkedin.com/in/salah-el-syad-a7505236b)
+- Email: salah.elsayad@example.com (غيّرها لو عندك بريد خاص للمجال)
